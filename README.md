@@ -1,3 +1,15 @@
+<div align="center">
+
+# <span style="font-size: 72px; color: #ff0000;">⚠️ WARNING ⚠️</span>
+
+## <span style="font-size: 36px; color: #ff0000; font-weight: bold;">This is a temporary fork that will be removed without warning once the iOS shutdown freeze fix has been merged into the main repository.</span>
+
+### <span style="font-size: 28px; color: #cc0000;">Do not use this fork in production. Switch back to the official package as soon as the fix is available upstream.</span>
+
+</div>
+
+---
+
 <a href="https://margelo.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./docs/static/img/banner-dark.png" />
